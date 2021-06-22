@@ -1,0 +1,13 @@
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\App_data\SampleDataset.txt
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.exe
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.deps.json
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.runtimeconfig.json
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.runtimeconfig.dev.json
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.dll
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\bin\Debug\netcoreapp3.1\RetailerMerchant.pdb
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.AssemblyInfoInputs.cache
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.AssemblyInfo.cs
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.dll
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.pdb
+C:\Users\lakshmi.surapaneni\source\repos\RetailerMerchant\ConsoleApp1\obj\Debug\netcoreapp3.1\RetailerMerchant.genruntimeconfig.cache
